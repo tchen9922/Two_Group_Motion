@@ -1,0 +1,14 @@
+{
+  "label": "NONE",
+  "mission_id": "RS-MISSION-20260806-JP-TWO-GROUP-MOTION-DEMO",
+  "software_version": "0.6.0",
+  "git_commit": "uncommitted",
+  "timestamp_utc": "2026-08-26T19:36:13.119Z",
+  "anonymous_session_id": "ANON-20260826-143603-871",
+  "csv_path": "data\\ANON-20260826-143603-871_trials.csv",
+  "recorded_rows": 1,
+  "completed_trials": 0,
+  "aborted": true,
+  "state": "aborted_at_stimulus",
+  "simulated": false
+}

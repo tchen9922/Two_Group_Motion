@@ -1,0 +1,14 @@
+{
+  "label": "NONE",
+  "mission_id": "RS-MISSION-20260806-JP-TWO-GROUP-MOTION-DEMO",
+  "software_version": "0.6.0",
+  "git_commit": "uncommitted",
+  "timestamp_utc": "2026-08-26T16:26:26.997Z",
+  "anonymous_session_id": "ANON-20260826-112620-812",
+  "csv_path": "C:\\Noel Lab_TL\\JP_Two_Group_Motion_Demo_v0.6.0_MINIMAL\\JP_Two_Group_Motion_Demo_v0.6.0\\data\\ANON-20260826-112620-812_trials.csv",
+  "recorded_rows": 0,
+  "completed_trials": 0,
+  "aborted": true,
+  "state": "error:MATLAB:nonExistentField",
+  "simulated": false
+}
